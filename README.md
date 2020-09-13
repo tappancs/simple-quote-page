@@ -5,4 +5,4 @@
 * CSS3, Googlefonts
 
 # Elérhető
-https.tappancs.github.io/simple-quote-page
+https://tappancs.github.io/simple-quote-page
